@@ -5,9 +5,9 @@ I have a good knowledge of Data Structures and a good basis in C and Java.
 I'm currently trying to discover what I like to do, and for that I'm learning different languages in both back and front end – such as Javascript (with React) and Python.
 I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold!
 
-[![Linkedin Badge](https://img.shields.io/badge/-amanda%20rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
 [![Instagram Badge](https://img.shields.io/badge/-ayo.mands-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ayo.mands/)](https://instagram.com/ayo.mands)
-[![Youtube Badge](https://img.shields.io/badge/-amanda%20rodrigues-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnnrGYSJUc6TrUp2OsB9UAg)](https://www.youtube.com/channel/UCnnrGYSJUc6TrUp2OsB9UAg)
+[![Youtube Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnnrGYSJUc6TrUp2OsB9UAg)](https://www.youtube.com/channel/UCnnrGYSJUc6TrUp2OsB9UAg)
 [![Gmail Badge](https://img.shields.io/badge/-amanda@manzoti.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:amanda@manzoti.com)
 
 ## ⚡ Technologies
