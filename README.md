@@ -5,7 +5,7 @@ I have a good knowledge of Data Structures and a good basis in C and Java.
 I'm currently trying to discover what I like to do, and for that I'm learning different languages in both back and front end – such as Javascript (with React) and Python.
 I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold!
 
-<img src="https://i.pinimg.com/originals/3c/de/3e/3cde3e1fe79e02abdc287395f57d8578.gif" width="30px" border-radius="100px" img-align="right">
+<img src="https://i.pinimg.com/originals/3c/de/3e/3cde3e1fe79e02abdc287395f57d8578.gif" width="100px" border-radius="100px" img align="right">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
 [![Instagram Badge](https://img.shields.io/badge/-ayo.mands-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ayo.mands/)](https://instagram.com/ayo.mands)
