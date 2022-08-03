@@ -26,6 +26,7 @@ I'm willing to learn new things and gain experience in various areas. So, every 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyerv&hide=TeX&layout=compact&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487)
