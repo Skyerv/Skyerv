@@ -1,13 +1,13 @@
 ## ☕ Hey there,
 
-<img src="https://im5.ezgif.com/tmp/ezgif-5-ae2d23c581.gif" width="240px" border radius="450px" img align="right">
+<img src="https://i.ibb.co/37N6q9L/output-onlinegiftools.gif" width="240px" border-radius="100px" img align="right">
 
 🍪 My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil. <br/>
 🥨 I have a good knowledge of Data Structures and a good basis in C and Java. <br/>
 🧇 I'm currently working with - and learning about - Typescript, NestJS, TypeORM and PostgreSQL. <br/>
 🥐 I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/) ‖
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
 [![Gmail Badge](https://img.shields.io/badge/-amavie@alunos.utfpr.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:amavie@alunos.utfpr.edu.br)
 
 ## ⚡ Technologies
