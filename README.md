@@ -28,6 +28,6 @@ I'm willing to learn new things and gain experience in various areas. So, every 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Skyerv=usernamecount_private=true&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487 align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyerv&count_private=true&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487 align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487&locale=en&layout=compact" align = "center"/>
 </p>
