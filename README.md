@@ -27,5 +27,5 @@ I'm willing to learn new things and gain experience in various areas. So, every 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487&layout=compact) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyerv&hide=TeX&layout=compact&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487)
