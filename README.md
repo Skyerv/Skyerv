@@ -1,11 +1,11 @@
-## 🌸 Heya!
+## ☕ Hey there,
 
-<img src="https://uploaddeimagens.com.br/images/003/795/761/original/oie_rounded_corners(1).gif" width="300px" border-radius="100px" img align="right">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-ae2d23c581.gif" width="280px" border radius="450px" img align="right">
 
-My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil.
-I have a good knowledge of Data Structures and a good basis in C and Java.
-I'm currently trying to discover what I like to do, and for that I'm learning different languages in both back and front end – such as Javascript (with React) and Python.
-I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold!
+🍪 My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil. <br/>
+🥨 I have a good knowledge of Data Structures and a good basis in C and Java. <br/>
+🧇 I'm currently working with - and learning about - Typescript, NestJS, TypeORM and PostgreSQL. <br/>
+🥐 I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
 [![Instagram Badge](https://img.shields.io/badge/-ayo.mands-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ayo.mands/)](https://instagram.com/ayo.mands)
@@ -28,6 +28,6 @@ I'm willing to learn new things and gain experience in various areas. So, every 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,ffdefc,fff2fe&text_color=9e5487&title_color=9e5487&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,f5f5f5,f0e2da&text_color=b24f49&title_color=8a5535" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyerv&show_icons=true&theme=cobalt&bg_color=DEG,f5f5f5,f0e2da&text_color=b24f49&title_color=8d7758&locale=en&layout=compact" align = "center"/>
 </p>
