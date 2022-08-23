@@ -1,6 +1,6 @@
 ## ☕ Hey there,
 
-<img src="https://im5.ezgif.com/tmp/ezgif-5-ae2d23c581.gif" width="250px" border radius="450px" img align="right">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-ae2d23c581.gif" width="240px" border radius="450px" img align="right">
 
 🍪 My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil. <br/>
 🥨 I have a good knowledge of Data Structures and a good basis in C and Java. <br/>
