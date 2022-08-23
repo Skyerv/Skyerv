@@ -7,7 +7,7 @@
 🧇 I'm currently working with - and learning about - Typescript, NestJS, TypeORM and PostgreSQL. <br/>
 🥐 I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/) 🍪
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/) ‖
 [![Gmail Badge](https://img.shields.io/badge/-amavie@alunos.utfpr.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:amavie@alunos.utfpr.edu.br)
 
 ## ⚡ Technologies
