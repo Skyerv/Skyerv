@@ -26,6 +26,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=716458&text_color=DDD9D9&title_color=FA6D6D" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyerv&show_icons=true&theme=cobalt&bg_color=716458&text_color=DDD9D9&title_color=FA6D6D&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyerv&show_icons=true&theme=cobalt&bg_color=6C645D&text_color=DDD9D9&title_color=FA6D6D" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skyerv&show_icons=true&theme=cobalt&bg_color=6C645D&text_color=DDD9D9&title_color=FA6D6D&locale=en&layout=compact" align = "center"/>
 </p>
