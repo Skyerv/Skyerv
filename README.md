@@ -4,7 +4,7 @@
 
 ‣ My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil. <br/>
 ‣ I have a good knowledge of Data Structures and a good base in C and Java. <br/>
-‣ I'm currently working with - and learning about - Typescript, NestJS, TypeORM and PostgreSQL. <br/>
+‣ I'm currently working with Typescript, NestJs, ReactJs, AWS, TypeORM and PostgreSQL. <br/>
 ‣ I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
