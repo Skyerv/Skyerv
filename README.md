@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/jSHQZFBb/output-onlinegiftools.gif" width="240px" border-radius="100px" img align="right">
 
 ‣ My name is Amanda Rodrigues Vieira and I'm a Computer Science student at the Federal University of Technology – Paraná – Brazil. <br/>
-‣ I have a good knowledge of Data Structures and a good basis in C and Java. <br/>
+‣ I have a good knowledge of Data Structures and a good base in C and Java. <br/>
 ‣ I'm currently working with - and learning about - Typescript, NestJS, TypeORM and PostgreSQL. <br/>
 ‣ I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
