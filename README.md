@@ -11,7 +11,7 @@
 ‣ As much as I have more proficiency with Typescript, I am always open to learning other languages and technologies. <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/amanda-vieira-483a7820b/)
-[![Gmail Badge](https://img.shields.io/badge/-amavie@alunos.utfpr.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:amanda@manzoti.com)
+[![Gmail Badge](https://img.shields.io/badge/-amanda@manzoti.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:amanda@manzoti.com)
 
 ## ⚡ Technologies
 
